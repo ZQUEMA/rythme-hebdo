@@ -1,0 +1,5 @@
+{
+  "name": "rythme-hebdo",
+  "owner": { "name": "ZQUEMA" },
+  "plugins": [{ "name": "rythme-hebdo", "source": "./" }]
+}

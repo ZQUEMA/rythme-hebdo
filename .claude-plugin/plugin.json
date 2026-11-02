@@ -1,0 +1,6 @@
+{
+  "name": "rythme-hebdo",
+  "version": "0.1.0",
+  "description": "Barre de consommation du quota hebdomadaire Claude, avec l'avance ou le retard sur un rythme régulier jusqu'à la réinitialisation",
+  "types": "./types/index.d.ts"
+}
